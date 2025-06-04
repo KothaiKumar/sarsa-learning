@@ -24,8 +24,8 @@ Update the Q-value for the current state-action pair (S, A) using the SARSA upda
 Update State and Action and repeat the step 3 untill the episodes ends.
 
 ## SARSA LEARNING FUNCTION
-Developed by: AUGUSTINE J
-Register no:212222240015
+Developed by: Kothai K
+Register no:212222240051
 ```
 def sarsa(env,
           gamma=1.0,
